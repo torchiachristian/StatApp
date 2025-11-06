@@ -1,7 +1,9 @@
 # Stat Tracker — by Torchia Christian
 
-Applicazione desktop Linux (Python + CustomTkinter) per autovalutazione personale.  
-Traccia statistiche giornaliere, storico, grafici e report mensili.
+Applicazione desktop Linux (Python + CustomTkinter) per autovalutazione personale  
+Traccia statistiche giornaliere, storico, grafici e report mensili
+Utile se vuoi monitorare i tuoi progressi quotidiani e migliorare la tua routine personale --> modifica le metriche e i parametri direttamente in 'main.py' in base alle tue esigenze
+
 
 ## Requisiti
 - Linux Mint / Ubuntu
