@@ -1,4 +1,4 @@
-# Stat Tracker — Christian
+# Stat Tracker — by Torchia Christian
 
 Applicazione desktop Linux (Python + CustomTkinter) per autovalutazione personale.  
 Traccia statistiche giornaliere, storico, grafici e report mensili.
