@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Stat Tracker
+Comment=Applicazione di statistiche personali
+Exec=python3 /home/christian/StatApp/main.py
+Icon=utilities-system-monitor
+Type=Application
+Terminal=false
+Categories=Utility;
+
